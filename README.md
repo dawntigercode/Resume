@@ -24,3 +24,7 @@
 |인공지능|인공지능|3|
 |정보보호론|보안|3|
 |소프트웨어세미나1|최신 소프트웨어 트렌드|1|
+
+githup address : [dawntigercode][github]
+
+[github]:https://github.com/dawntigercode
